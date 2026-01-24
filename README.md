@@ -22,7 +22,7 @@ We recommend using **CUDA 11.8** with the following core dependencies:
   * **Python:** ≥ 3.8
   * **PyTorch:** 2.1.2
   * **Torchvision:** 0.16.2
-  * **Core Deps:** `deepspeed==0.14.2`, `transformers` (specific commit), `accelerate`, `timm`, `decord` / `av`, `wandb`.
+  * **Core Deps:** `deepspeed==0.14.2`, `transformers`, `accelerate`, `timm`, `decord` / `av`, `wandb`.
 
 ### Installation
 
