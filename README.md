@@ -7,7 +7,7 @@ Integrated Vision and Language Lab, KAIST
 \*Indicates Equal Contribution
 
 
-[📄 **Paper**](https://arxiv.org/pdf/2411.16173)     [🤗 **Dataset (SceneWalk)**](https://huggingface.co/datasets/IVLLab/SceneWalk)
+[📄 **Paper**](https://arxiv.org/pdf/2411.16173)     [🤗 **Dataset (SceneWalk)**](https://huggingface.co/datasets/interlive/scenewalk)
 
 🏆 **Accepted at CVPR 2025**
 
